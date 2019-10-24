@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+.navbar {
+  width: 35.72cm;
+  background-color: rgb(165, 9, 113);
+  overflow: auto;
+  position : fixed;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: rgb(201, 122, 168);
+}
+
+.navbarRight {
+    margin-left: 648px;
+}
+
+.img {
+  opacity: 1.0;
+  filter: alpha(opacity=50);
+
+}
+.img1{
+  margin-left: 1.5%;
+  margin-top: 10%;
+}
+
+.txt1{
+  margin-left: 4%;
+}
+
+.img2{
+  margin-left: 27%;
+  margin-top: -15%;
+}
+
+.txt2{
+  margin-left: 28.3%;
+  margin-top: 0%;
+}
+
+.img3{
+  margin-left: 55%;
+  margin-top: -13.3%;
+}
+
+.txt3{
+  margin-left: 59.5%;
+  margin-top: 0.9%
+}
+
+.img4{
+  margin-left: 80%;
+  margin-top: -12.8%;
+}
+
+.txt4{
+  margin-left: 82.3%;
+  margin-top: 0.9%
+}
+
+.judul{
+  font-family: Arial;
+  color: white;
+  font-size: 30px;
+  margin-left: 40%;
+  margin-top: -23%
+}
+
+.judul1{
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+  margin-left: 30%;
+  margin-top: -1%;
+}
+
+.judul2{
+  font-family: Arial;
+  color: white;
+  font-size: 16px;
+  margin-left: 26%;
+  margin-top: -1%;
+}
+
+.button1 {
+  font-family: Arial;
+  font-size: 20;
+  margin-left: 43%;
+  margin-top: 2%;
+  border-radius: 8px;
+  background-color: white; 
+  color: black; 
+  width: 230px;
+  height: 50px;
+  border: 2px solid rgb(150, 0, 87);
+}
+
+link{
+  color:black;
+}
+
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+  }
+}
+.tambah{
+  margin-top: -330px;
+  color: white;
+}

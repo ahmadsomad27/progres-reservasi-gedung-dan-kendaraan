@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(back.jpg);
+	background-size: cover;
+	height: 692px;
+	width: 50px;
+	background-position: center;
+	font-family: sans-serif;
+}
